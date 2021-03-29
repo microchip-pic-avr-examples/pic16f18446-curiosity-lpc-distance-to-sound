@@ -39,7 +39,8 @@
         "author": "Microchip",
         "subcategories": [
             [
-               "Peripherals", "NCO"
+               "Peripherals",
+			   "NCO"
             ]
         ],
         "peripherals": [
