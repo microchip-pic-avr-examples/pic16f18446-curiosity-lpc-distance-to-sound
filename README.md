@@ -1,5 +1,7 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
+# IR Distance Value to Sound Using NCO
+
 In this project the ADCC of the PIC16F18446 is used to read the IR Distance Sensor. The NCO is used to generate a tone with variable pitch according to the distance reading.
 
 <br><img src="images/1.jpg" width="600">
