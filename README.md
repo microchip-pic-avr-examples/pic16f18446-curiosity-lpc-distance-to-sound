@@ -14,7 +14,7 @@ In this project the ADCC of the PIC16F18446 is used to read the IR Distance Sens
 
 ## Hardware Used
 - PIC16F18446 PDIP20 with Curiosity Development Board [(DM164137)](https://www.microchip.com/Developmenttools/ProductDetails/DM164137)
-- UV click board™ [(MIKROE-1677)](https://www.mikroe.com/uv-click)
+- IR distance click board™ [(MIKROE-1991)](https://www.mikroe.com/ir-distance-click)
 - Generic earphones
 - 3.5mm female jack break-out board
 - 1kOhm resistor
